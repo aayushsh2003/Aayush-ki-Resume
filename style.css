@@ -1,0 +1,101 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+} */
+
+/* .container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+} */
+
+.profile {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+.post img {
+    width:200px;
+    border-radius: 10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.post p {
+    font-size: 20px;
+    
+}
+.profile p {
+    font-size: 20px;
+    color: #666;
+}
+
+.portfolio-section {
+    margin-bottom: 30px;
+}
+
+.portfolio-section h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.portfolio-section p {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+}
+
+.portfolio-section a {
+    display: inline-block;
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.hashtag {
+    color: blue;
+}
+  
+
+.about-section {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-section h2 {
+    margin-bottom: 20px;
+}
+
+.about-section p {
+    font-size: 16px;
+    color: #666;
+}
+
+.social-icons {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.social-icons a {
+    margin: 0 10px;
+    color: #666;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.social-icons a:hover {
+    color: #333;
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f2f2f2;
+}
